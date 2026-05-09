@@ -1,5 +1,6 @@
 using {com.oktopus as oktopus} from '../db/schema';
 
-service CustomerService {
-    entity CustomerService as projection on oktopus.Customer;
+service OktopusService {
+    entity ProductService as projection on oktopus.Product;
+    entity SupplierService as projection on oktopus.Supplier;
 }

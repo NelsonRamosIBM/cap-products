@@ -1,20 +1,20 @@
 namespace com.oktopus;
 
-entity Product {
-    key ID              : UUID;
-        Name            : String;
-        Description     : String;
-        ImageUrl        : String;
-        ReleaseDate     : DateTime;
-        DicontinuesData : DateTime;
-        Price           : Decimal(16, 2);
-        Height          : Decimal(16, 2);
-        Width           : Decimal(16, 2);
-        Depth           : Decimal(16, 2);
-        Quantity        : Decimal(16, 2);
+entity Products {
+    key ID               : UUID;
+        Name             : String;
+        Description      : String;
+        ImageUrl         : String;
+        ReleaseDate      : DateTime;
+        DiscontinuedDate : DateTime;
+        Price            : Decimal(16, 2);
+        Height           : Decimal(16, 2);
+        Width            : Decimal(16, 2);
+        Depth            : Decimal(16, 2);
+        Quantity         : Decimal(16, 2);
 };
 
-entity Supplier {
+entity Suppliers {
     key ID         : UUID;
         Name       : String;
         Street     : String;
@@ -65,6 +65,7 @@ entity ProductReview {
 }
 
 entity SalesData {
-    key DeliveryDate : DateTime;
+    key ID           : UUID;
+        DeliveryDate : DateTime;
         Revenue      : Decimal(16, 2);
 }

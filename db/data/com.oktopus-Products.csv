@@ -1,0 +1,11 @@
+ID,Name,Description,ImageUrl,ReleaseDate,DiscontinuedDate,Price,Height,Width,Depth,Quantity
+7d6e4b2a-1c3f-4e8d-9a0b-2f5c7e9d1a3b,Laptop Pro 15,High performance laptop with 15 inch display,https://images.example.com/laptop-pro-15.jpg,2023-01-15T00:00:00Z,2026-01-15T00:00:00Z,1299.99,2.50,35.80,24.50,150.00
+3a8c1d5e-7f2b-4a9c-8e1d-6b0f3c5a7e9d,Wireless Mouse,Ergonomic wireless mouse with long battery life,https://images.example.com/wireless-mouse.jpg,2022-06-10T00:00:00Z,2025-06-10T00:00:00Z,49.99,4.20,7.50,12.30,500.00
+9f1b4c7e-2d5a-4b8c-7e3f-1a6d9b2c5e8f,Mechanical Keyboard,RGB mechanical keyboard with tactile switches,https://images.example.com/mech-keyboard.jpg,2023-03-20T00:00:00Z,2026-03-20T00:00:00Z,129.99,3.80,44.50,15.20,300.00
+2e7d0a4c-8b1f-4c6d-5a9e-3f8b1c4d7e0a,4K Monitor 27,Ultra HD 27 inch monitor with HDR support,https://images.example.com/monitor-4k-27.jpg,2022-11-05T00:00:00Z,2025-11-05T00:00:00Z,599.99,51.30,61.40,21.80,80.00
+5c0e3b8d-4a7f-4d2e-9b6c-8e1a5f3c0b7d,USB-C Hub 7 in 1,Multiport USB-C hub with HDMI and SD card reader,https://images.example.com/usb-hub.jpg,2023-05-18T00:00:00Z,2026-05-18T00:00:00Z,79.99,1.50,11.20,5.80,750.00
+8b3f6a1c-5d0e-4f9b-2c7a-4e8d1b6f3a0c,Webcam HD 1080p,Full HD webcam with built-in noise cancelling mic,https://images.example.com/webcam-1080p.jpg,2022-08-22T00:00:00Z,2025-08-22T00:00:00Z,89.99,7.80,9.50,8.20,400.00
+1d4a7e0b-9c2f-4a5d-8b3e-6f1c4a7d0e9b,External SSD 1TB,Portable SSD with 1TB storage and USB 3.2,https://images.example.com/ext-ssd-1tb.jpg,2023-02-28T00:00:00Z,2026-02-28T00:00:00Z,119.99,0.90,10.40,5.60,600.00
+4f9c2b6e-1a8d-4e0f-7c5b-9d3a6e1f4c2b,Noise Cancel Headphones,Over-ear headphones with active noise cancellation,https://images.example.com/headphones-nc.jpg,2022-04-14T00:00:00Z,2025-04-14T00:00:00Z,249.99,20.50,18.30,9.70,200.00
+6a1e8d3c-7b4f-4c2a-5e0d-2b9f6c3a8e1d,Smart Speaker Mini,Compact smart speaker with voice assistant,https://images.example.com/smart-speaker.jpg,2023-07-30T00:00:00Z,2026-07-30T00:00:00Z,69.99,9.80,9.80,9.80,350.00
+0c5b2f9a-3e6d-4b1c-8a4f-7d0e3b5c2f9a,Drawing Tablet A5,Digital drawing tablet A5 size with stylus,https://images.example.com/drawing-tablet.jpg,2022-09-12T00:00:00Z,2025-09-12T00:00:00Z,199.99,0.80,27.60,17.40,120.00
